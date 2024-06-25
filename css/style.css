@@ -90,6 +90,7 @@ body {
   height: 100%;
   -o-object-fit: cover;
   object-fit: cover;
+  border-radius: 20px;
 }
 
 .about__title {
